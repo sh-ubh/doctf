@@ -4,7 +4,7 @@
 #thanks, liveoverflow
 
 FROM ubuntu:18.04
-LABEL maintainer="shubham6405@pm.me"
+LABEL maintainer="pryr@pryr.xyz"
 
 #ENV Variables
 ENV LC_CTYPE en_US.UTF-8
